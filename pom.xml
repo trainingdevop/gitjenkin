@@ -34,6 +34,7 @@
 					<artifactId>commons-logging</artifactId>
 				</exclusion>
 			</exclusions>
+			
 		</dependency>
 		<dependency>
 			<groupId>org.slf4j</groupId>
@@ -100,4 +101,4 @@
 			</plugin>
 		</plugins>
 	</build>
-</project>...
+</project>
